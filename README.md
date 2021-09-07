@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Ian Kinney's Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
@@ -57,7 +57,7 @@ Finally, the website must be deployed to GitHub pages.
 
 When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
 
-Ensure your repository has regular commits and a thorough README.md file
+Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 ### Considerations
 
@@ -132,16 +132,6 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-## Rubric
+### Copyright
 
-[Unit 11 Rubric - Web Design Homework - Web Visualization Dashboard](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
-
-- - -
-
-## References
-
-OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
